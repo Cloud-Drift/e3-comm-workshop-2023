@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cloud-Drift/earthcube-meeting-2022/HEAD)
 
 # e3-comm-workshop-2023
 
