@@ -6,7 +6,6 @@ dependencies:
   - clouddrift
   - numpy
   - xarray
-  - datetime
   - jupyterlab
   - matplotlib
   - cartopy

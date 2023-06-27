@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cloud-Drift/e3-comm-workshop-2023/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FCloud-Drift%2Fe3-comm-workshop-2023%2Fblob%2Fmain%2Fdemo-comm-workshop-2023.ipynb)
 
 # e3-comm-workshop-2023
 
