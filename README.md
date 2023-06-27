@@ -26,7 +26,7 @@ In a terminal window, clone and build the environment using [Anaconda](https://d
 git clone https://github.com/Cloud-Drift/e3-comm-workshop-2023
 cd e3-comm-workshop-2023
 conda env create -f environment.yml
-conda activate earthcube
+conda activate e3-workshop
 jupyter lab
 ```
 
