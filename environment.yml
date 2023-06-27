@@ -1,0 +1,12 @@
+name: e3-workshop
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - clouddrift
+  - numpy
+  - xarray
+  - datetime
+  - jupyterlab
+  - matplotlib
+  - cartopy
