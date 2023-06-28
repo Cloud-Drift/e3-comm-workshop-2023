@@ -1,4 +1,4 @@
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cloud-Drift/e3-comm-workshop-2023/HEAD)
 # e3-comm-workshop-2023
 
 # 2023 Building Upon the EarthCube Community Workshop 
