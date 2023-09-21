@@ -2,7 +2,7 @@ name: e3-workshop
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.10
   - clouddrift
   - numpy
   - xarray
